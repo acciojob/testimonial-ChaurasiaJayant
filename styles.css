@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+
+.container{
+	background-color:#e5e5e5;
+	padding:30px;
+}
+.rightt{
+	text-align:right;
+	font-style:italic;
+	margin-top:-15px
+}
+p{
+	font-size:13px
+}
+.t1{
+	background-color:white;
+	padding:1px;
+	
+	margin-bottom:10px
+	
+}
